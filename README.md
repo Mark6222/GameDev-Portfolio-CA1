@@ -1,6 +1,5 @@
 # **Poni's Tail**
 Designed by Samuel Edwards, Liam Flynn and Mark Hogan
-___________________________________________________________________
 
 <style>
     .div1 {
@@ -21,7 +20,9 @@ ___________________________________________________________________
 <div class="div2">
 <a href="https://docs.google.com/presentation/d/11A_n445xwg4Z1wd9hlrLHQ51T6virhRN0epvZPNZ1zY/edit?usp=sharing"><img src="images/Pitch.png" width="100" height="100"><h3><strong>Pitch</strong></h3></a>
 </div>
-
+<div class="div2">
+<a href="https://docs.google.com/spreadsheets/d/1pucJXIp5Q5qYQ8lhXrtaNKuTcodfR0Fo6UYcp6quC44/edit?usp=sharing"><img src="images/Burndown.jpg" width="200" height="100"><h3><strong>Sprint1 Burndown Chart</strong></h3></a>
+</div>
 
 
 
