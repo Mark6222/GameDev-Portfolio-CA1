@@ -1,6 +1,3 @@
-# **Poni's Tail**
-Designed by Samuel Edwards, Liam Flynn and Mark Hogan
-
 <style>
     .div1 {
         float: left;
