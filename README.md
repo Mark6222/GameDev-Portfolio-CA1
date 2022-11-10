@@ -22,6 +22,7 @@ Designed by Samuel Edwards, Liam Flynn and Mark Hogan
 </div>
 <div class="div2">
 <a href="https://docs.google.com/spreadsheets/d/1pucJXIp5Q5qYQ8lhXrtaNKuTcodfR0Fo6UYcp6quC44/edit?usp=sharing"><img src="images/Burndown.jpg" width="200" height="100"><h3><strong>Sprint1 Burndown Chart</strong></h3></a>
+    
 </div>
 
 
