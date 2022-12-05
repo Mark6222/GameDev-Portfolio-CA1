@@ -26,5 +26,17 @@
 </div>
 
 
+</div>
+<div class="div2">
+<a href="https://markhogan.itch.io/ponis-tale"><img src="images/Prototype.png" width="100" height="100"><h3><strong>Prototype</strong></h3></a>
+</div>
+
+</div>
+<div class="div2">
+<a href="https://docs.google.com/document/d/1UyPvEkmSpULPj3zEW5rrcprRB8IFoFwX5u6QTShyOrA/edit?usp=sharing"><img src="images/Beat.jpg" width="150" height="100"><h3><strong>Beat Chart</strong></h3></a>
+</div>
+
+
+
 
 
