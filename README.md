@@ -28,12 +28,17 @@
 
 </div>
 <div class="div2">
-<a href="https://markhogan.itch.io/ponis-tale"><img src="images/Prototype.png" width="100" height="100"><h3><strong>Prototype</strong></h3></a>
+<a href="https://liamflynn2003.itch.io/ponis-tale"><img src="images/Prototype.png" width="100" height="100"><h3><strong>Poni's Tale Game</strong></h3></a>
 </div>
 
 </div>
 <div class="div2">
 <a href="https://docs.google.com/document/d/1UyPvEkmSpULPj3zEW5rrcprRB8IFoFwX5u6QTShyOrA/edit?usp=sharing"><img src="images/Beat.jpg" width="150" height="100"><h3><strong>Beat Chart</strong></h3></a>
+</div>
+
+</div>
+<div class="div2">
+<a href="https://wit-my.sharepoint.com/:w:/g/personal/20098690_wit_ie/EcxwFlBGJNhMrJ1yBtYBWAcBTvR1T6PYYSkPK0whUaMYSg?e=2V8TWr"><img src="images/playtest.jpg" width="150" height="100"><h3><strong>PlayTest</strong></h3></a>
 </div>
 
 
